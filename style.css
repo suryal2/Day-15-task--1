@@ -1,0 +1,107 @@
+ body{
+   background-color:  rgb(217, 239, 237);
+ }
+
+ .heading{
+   background-color: aliceblue;
+   height: 5px;
+   position: relative;
+ }
+  
+ 
+  
+ 
+ .col-8{
+
+    position:absolute  ;
+     top:30px;
+    left:390px;
+ }
+ .box-part{
+    background-color: rgb(188, 227, 235);
+    border-radius:10px ;
+    border-style:ridge;
+
+    height: 610px;
+    width: 400px;
+ }
+ .display input[type='text']  {
+   background-color:  rgb(147, 224, 244);
+   text-align: right; padding-right: 20px;
+
+   border-radius: 9px;
+   border-style: hidden;
+   width: 360px;
+   height: 60px;
+   position: relative;
+   top: 40px;
+   left: 20px;
+   }
+
+ 
+   input   {
+      padding-right: 20px;
+      text-align: right;
+      background-color: rgb(188, 227, 235);
+   border-radius: 9px;    
+   border-style: hidden;
+      width: 360px;
+      height: 60px;
+      position: relative;
+      top: 40px;
+      left: 20px;
+   }
+
+   
+ .key    {
+   height: 384px;
+   width: 340px;
+     
+    
+   
+   position: relative;
+   top:56px;
+   left: 33px;
+   
+
+}
+button{
+   
+
+
+
+
+   background-color: rgb(120, 194, 251);
+   height: 77px;
+   width: 78px;
+   position: relative;
+
+   left: 10px;
+   border-radius: 200px;
+    border-style:hidden ;
+}
+ 
+ 
+
+
+#equal{background-color: #1daf0d;}  
+  
+
+#clear{
+   background-color: rgb(193, 39, 108);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+   
